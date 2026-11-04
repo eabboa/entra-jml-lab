@@ -1,0 +1,5 @@
+Department,GroupName
+*,ACC-AllEmployees
+Finance,ACC-Dept-Finance
+Sales,ACC-Dept-Sales
+IT,ACC-Dept-IT

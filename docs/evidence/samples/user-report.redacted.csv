@@ -1,0 +1,13 @@
+"DisplayName","UserPrincipalName","Department","JobTitle","EmployeeId","EmployeeHireDate","AccountEnabled","Manager"
+"Emergency Access 01","bg-01@contoso.onmicrosoft.com",,,,,"True",
+"Emergency Access 02","bg-02@contoso.onmicrosoft.com",,,,,"True",
+"Lab Admin","lab-admin@contoso.onmicrosoft.com",,,,,"True",
+"Finance Manager","fin.manager@contoso.onmicrosoft.com","Finance","Finance Manager",,,"True",
+"Finance User1","fin.user1@contoso.onmicrosoft.com","Finance","Accountant 2",,,"True",
+"Finance User2","fin.user2@contoso.onmicrosoft.com","Finance","Payments Clerk",,,"True",
+"Helpdesk Agent1","hd.agent1@contoso.onmicrosoft.com","IT","Helpdesk Agent",,,"True",
+"Helpdesk Agent2","hd.agent2@contoso.onmicrosoft.com","IT","Helpdesk Agent",,,"True",
+"IT Lead","it.lead@contoso.onmicrosoft.com","IT","IT Team Lead",,,"True",
+"App User1","app.user1@contoso.onmicrosoft.com","Sales","Sales Representative",,,"True",
+"Risk Test1","risk.test1@contoso.onmicrosoft.com","Sales","Analyst",,,"True",
+"Sales User1","sales.user1@contoso.onmicrosoft.com","Sales","Senior Sales Representative",,,"True",

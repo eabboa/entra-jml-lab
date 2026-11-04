@@ -1,0 +1,4 @@
+EmployeeId,GivenName,Surname,Department,JobTitle,ManagerEmployeeId,HireDate,UsageLocation
+E1001,Şule,Örnekoğlu,finance,Accountant,E0101,2026-12-01,TR
+E1001,Ilgaz,Denemeci,Sales,Sales Representative,,01.12.2026,TR
+,Gökçe,Testçioğlu,IT,Helpdesk Agent,E0002,2026-12-08,Türkiye

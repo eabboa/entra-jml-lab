@@ -1,0 +1,29 @@
+# Runtime output: real object IDs and UPNs live here, never commit
+logs/
+out/
+notes/
+
+# Credentials and certificates for the app-only (workload identity) login
+*.pfx
+*.p12
+*.cer
+*.crt
+*.pem
+*.key
+.env
+*.env
+
+# Real HR input: only the *.sample.csv files are fake and safe to publish
+hr/*.csv
+!hr/*.sample.csv
+!hr/joiners.broken.csv
+
+# Raw exports from the tenant before redaction
+*.export.csv
+*.export.json
+exports/
+
+# Editor and OS clutter
+.vscode/
+.DS_Store
+Thumbs.db
